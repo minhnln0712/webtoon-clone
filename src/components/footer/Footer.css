@@ -1,0 +1,56 @@
+#footer {
+  position: relative;
+}
+.footer-content {
+  border: 1px solid #e5e5e5;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+.footer-download-text {
+  font-size: 16px;
+  font-weight: 500;
+  margin-block-end: 5px;
+}
+.footer-store {
+  margin: 10px 0px;
+}
+.footer-store-logo img {
+  height: 40px;
+  padding: 0px 5px;
+  margin-bottom: 20px;
+}
+.footer-social-network {
+  margin: 40px 0px 20px 0px;
+}
+.button-social-network {
+  font-size: 18px;
+  color: #000000;
+  padding: 0px 20px;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+.footer-link {
+  font-size: 16px;
+  text-decoration: none;
+  color: black;
+  margin: 0px 15px;
+}
+#select-language {
+  background-color: #f5f5f5;
+  color: #7c7c7c;
+  border-color: #7c7c7c;
+  border-radius: 20px;
+  padding: 2px 5px;
+}
+.footer-copyright p {
+  margin: 10px 0px;
+  color: #d1d1d1;
+}
+
+.footer-logo img {
+  height: 55px;
+  width: auto;
+  margin-bottom: 10px;
+}
